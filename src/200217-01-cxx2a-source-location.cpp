@@ -2,8 +2,9 @@
 //
 // $ g++ -std=c++2a src/200217-01-cxx2a-source-location.cpp && ./a.out
 //
-// ref: <https://en.cppreference.com/w/cpp/utility/source_location>
+// ref: <https://quuxplusone.github.io/blog/2020/02/12/source-location/>
 //      <https://en.cppreference.com/w/cpp/experimental/source_location>
+//      <https://en.cppreference.com/w/cpp/utility/source_location>
 //
 #include <iostream>
 
